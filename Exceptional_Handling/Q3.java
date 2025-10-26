@@ -1,4 +1,3 @@
-package Ex_h;
 
 public class Q3 {
 

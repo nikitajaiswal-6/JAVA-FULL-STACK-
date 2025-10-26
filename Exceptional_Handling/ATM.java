@@ -1,4 +1,4 @@
-package Ex_h;
+
 
 public class ATM {
 
@@ -7,7 +7,7 @@ public class ATM {
             withdraw(1000,2000);
         }
 
-        catch (Ex_h.InsufficientBalance e){
+        catch (InsufficientBalance e){
             System.out.println("Exception bal insufficient");
             System.out.println(e);
         }
@@ -18,10 +18,10 @@ public class ATM {
         }
     }
 
-    public static void withdraw(double bal,double amt) throws Ex_h.InsufficientBalance {
+    public static void withdraw(double bal,double amt) throws InsufficientBalance {
 
         if (amt>bal){
-            throw new Ex_h.InsufficientBalance("Insufficient balance :"+ "Available bal:"+ bal+" Requested:"+amt);
+            throw new InsufficientBalance("Insufficient balance :"+ "Available bal:"+ bal+" Requested:"+amt);
         }
 
         System.out.println("Withdrawal successfully of amount:"+amt);

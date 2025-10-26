@@ -1,4 +1,4 @@
-package Ex_h;
+
 
 public class Throwtest {
 

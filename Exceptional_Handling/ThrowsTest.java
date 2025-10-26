@@ -1,4 +1,3 @@
-package Ex_h;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

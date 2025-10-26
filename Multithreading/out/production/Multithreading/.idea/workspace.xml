@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3e63cfe-5ee1-4b40-9d8c-6aff0ad079ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/ATM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/CheckedDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/ExceptionInDepth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/InsufficientBalance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Q5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Q6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Q7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/TestException2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/ThrowThrows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/ThrowsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Join_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Priority_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SetPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SetThreadName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sleep_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yield_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/.idea/Multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/ChildThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Odd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Problem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/SetPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/SetThreadName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Set_p.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Multithreading/ThreadDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/ATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/CatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/CatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/CheckedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/CheckedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/ExceptionInDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/ExceptionInDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/InsufficientBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/InsufficientBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/NullpointerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/NullpointerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Qo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Qo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/TestException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/TestException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/ThrowThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/ThrowThrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/ThrowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/ThrowsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/Throwtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/Throwtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/ATM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/CatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/CatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/CheckedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/ExceptionInDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/InsufficientBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/NullpointerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/NullpointerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Qo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Qo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/TestException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/ThrowThrows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/ThrowsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Ex_h/Throwtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptional_Handling/out/production/Exception Handling/Throwtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threadtest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33lBQCO3aBjLHQQc3dpptQq63i3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenOdd.executor": "Run",
+    "Application.InterfaceDemo.executor": "Run",
+    "Application.Join_Demo.executor": "Run",
+    "Application.Priority_Demo.executor": "Run",
+    "Application.Problem.executor": "Run",
+    "Application.SetPriority.executor": "Run",
+    "Application.SetThreadName.executor": "Run",
+    "Application.Sleep_Demo.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.ThreadDemo2.executor": "Run",
+    "Application.Yield_Demo.executor": "Run",
+    "Application.demo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/asus/Desktop/N_Spark/Multithreading",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3e63cfe-5ee1-4b40-9d8c-6aff0ad079ee" name="Changes" comment="" />
+      <created>1759881760919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759881760919</updated>
+    </task>
+    <servers />
+  </component>
+</project>
