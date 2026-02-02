@@ -1,0 +1,184 @@
+SPRING JDBC COMPLETE PRACTICE QUESTIONS
+1. Basic JdbcTemplate CRUD Operations
+
+Insert a new user
+
+Table: users(id, name, email)
+
+Use update() method of JdbcTemplate.
+
+Update a user's email
+Change the email of a user based on id.
+Use update() and check affected rows.
+
+
+Delete a user
+Delete a user based on id.
+
+Handle case when the user doesn’t exist. // no use
+
+Retrieve a single user
+
+Get a user by id.
+
+Use queryForObject() with a RowMapper.
+
+Retrieve all users
+Return a list of User objects.
+
+Use query() method and implement RowMapper. // no use
+
+
+
+2. Advanced Querying
+
+Find users by name pattern Use SQL LIKE in JdbcTemplate.
+Return list of matching users.
+Count total users Use queryForObject() with SQL COUNT(*).
+Retrieve user as a Map Use queryForMap() to get a user as Map<String, Object>.
+Retrieve all users as List of Maps Use queryForList(). // agr kr paogye to kanra warna chod dena
+
+
+3. Batch Operations
+
+Batch insert users
+Insert 5–10 users at once using batchUpdate().
+
+emails Update multiple users’ emails in a single batch.
+
+4. Transaction Management
+
+Transfer balance between users
+
+Table: accounts(id, name, balance)
+
+Deduct from one user, add to another.
+
+Handle rollback if the balance is insufficient. // rhne dena isko
+
+Implement with @Transactional or programmatic transaction. // rhne dena
+
+Nested transactions
+
+Insert a user and then log the insertion in another table. // rhne do
+
+Rollback only the log if logging fails, not user insert. // rhne do
+
+5. Exception Handling & Error Management // ye pura rhne do jab service se logic wla karenge tb karenge
+
+Handle duplicate key insertion
+
+Insert a user with an existing id.
+
+Catch DuplicateKeyException and print a custom message.
+
+Handle empty result
+
+Retrieve a user by non-existing id.
+
+Catch EmptyResultDataAccessException and return null.
+
+6. Named Parameters and NamedParameterJdbcTemplate  // rhne do
+
+Insert using Named Parameters
+
+Insert a user using :name and :email.
+
+Update using Named Parameters
+
+Update email by user id.
+
+Select using Named Parameters
+
+Get all users where name starts with “S”.
+
+7. Mapping ResultSet to Objects
+
+Custom RowMapper
+
+Map ResultSet to User object manually.
+
+Using BeanPropertyRowMapper
+
+Map ResultSet automatically to User class.
+
+8. Stored Procedures  // rhne dena isko agr khud se kr loge to karlena ok chatgpt se nhi krna
+
+Call a stored procedure
+
+Procedure: get_user_by_id(IN userId INT)
+
+Use SimpleJdbcCall.
+
+Call stored procedure with multiple OUT parameters
+
+Procedure returns user name and email by id.
+
+9. JdbcTemplate Utility Methods
+
+Query for single column Retrieve just the name of a user using queryForObject().
+Query for single integer Get the total number of users.
+
+Query for custom object list Return a list of UserDTO objects (different from entity).
+
+10. DAO + Service Layer Integration // rehne do
+
+Build DAO layer
+
+UserDao with all CRUD methods.
+
+Inject JdbcTemplate.
+
+Build Service layer
+
+UserService using DAO.
+
+Add business logic (e.g., check email uniqueness before insert).
+
+Unit test DAO
+
+Write a test to verify insert, update, delete, select methods.
+
+Unit test Service
+
+Mock DAO and verify Service layer logic.
+
+11. Real-World Scenario // karlena agr man kre to ok
+
+E-Commerce Orders
+
+Tables: orders(order_id, user_id, total_amount), order_items(item_id, order_id, product_name, price)
+
+Tasks:
+
+Insert order + multiple order items in a transaction.
+
+Retrieve all orders of a user with items.
+
+Update order total when items are modified.
+
+Delete an order and its items using batch update.
+
+Reporting
+
+Get total sales per user.
+
+Get total orders per day.
+
+Use queryForList() and map to DTO.
+
+If you solve all 31 problems, Sam, you will cover all Spring JDBC concepts in depth:
+
+JdbcTemplate CRUD & batch
+
+NamedParameterJdbcTemplate
+
+ResultSet mapping
+
+Transactions & rollback
+
+Exception handling
+
+DAO & Service layering
+
+Stored procedures
